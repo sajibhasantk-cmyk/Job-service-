@@ -1,0 +1,5 @@
+{
+  "name": "Copy of JobConnect with AdMob Integration",
+  "description": "A job listing service with an Admin Panel for managing posts. Features AI-powered job description generation and demonstrates logic for AdMob integration (Banner, Interstitial, Rewarded, App Open).",
+  "requestFramePermissions": []
+}
